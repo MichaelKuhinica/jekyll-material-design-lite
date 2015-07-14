@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-07-10 17:21:44
 categories: jekyll update
-author: michael
+author: jekyll
 image: road.jpg
 image_big: road_big.jpg
 ---
